@@ -1,0 +1,25 @@
+{
+  "name": "uploadfiles",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.312.0",
+    "@aws-sdk/s3-request-presigner": "^3.312.0",
+    "@evervault/react": "^1.0.1",
+    "@evervault/sdk": "^3.10.1",
+    "@next/font": "13.3.0",
+    "dotenv": "^16.0.3",
+    "formdata-node": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "next": "13.3.0",
+    "node-fetch": "^3.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
