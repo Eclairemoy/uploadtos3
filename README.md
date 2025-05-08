@@ -7,6 +7,7 @@ This project provides a simple interface to upload files to an AWS S3 bucket usi
 * [Node.js](https://nodejs.org/) installed on your machine
 * An AWS account with access to S3
 * AWS credentials (Access Key ID and Secret Access Key)
+* An Evervault account (create a free [account here](https://app.evervault.com/register))
 
 ## Setup Instructions
 
